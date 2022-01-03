@@ -38,6 +38,24 @@
 - to get information from working to long term memory you can either repeat that information over and over again or you can associate new information with already known schema.
 - do not assume that people will remember information. Provide it or make it easy to look it up.
 
+## How people think
+- Do not include all content on one page. Use "progressive disclore" -> show only what user need when they need.
+- It is ok to make them click often but only if they find information what they search there.
+### Processing load
+People are using mental resources that can be divided into 3 groups (order by most "expensive")
+1. Cognitive (thinking/remembering)
+2. Visual
+3. Motoric
+
+When designing you will need to make tradeoffs between those 3. Try to decrease load on user by using lower resource category load. It is ok to make user click 10 times if each step is simple a clear and they do not need to think and feels progress/satisfaction.
+
+### Mental vs conceptual model
+- mental model defines what user expects product to look like or to be interacted with. Many times mental models are created/shaped from previous experiences.
+- conceptual model represents reality (how product was designed to be interacetd with)
+- if you make sure that these two models match as much as possible then you will create possitive user feedback/experience.
+
+
+
 
 
 

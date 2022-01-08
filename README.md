@@ -107,6 +107,12 @@ Think ahead what mistakes may people make and change your design so mistakes wil
 
 Gather data in user testing where people make errors and categorize them. This may help you prevent future issues and redesigns.
 
+## How people decide
+Resist the impulse to give user large number of choices. They say they would like a lot of options but they would deviate from what they asked for. Keep number of choice at 3-4 as mentioned earlier.
+
+Do not start group discussion with members talking about their initial impressions. If not you will pay less attention to relevant information and make worse decisions.
+Ask people to rate how confident they are in their decision before they show their decision to others. 
+
 
 
 

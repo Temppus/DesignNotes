@@ -54,6 +54,12 @@ When designing you will need to make tradeoffs between those 3. Try to decrease 
 - conceptual model represents reality (how product was designed to be interacetd with)
 - if you make sure that these two models match as much as possible then you will create possitive user feedback/experience.
 
+## How people focus their attention
+- if it is critical to pay attentio to information. Make information stand up 10 times more than you think is necessary.
+- If you require person to do sequence repeatedly, make it easy to do, but realize that people can then make errors because they are doing is automatically.
+
+
+
 
 
 

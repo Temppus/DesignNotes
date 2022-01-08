@@ -84,6 +84,29 @@ Best reinforcement (reward) system is the one with variable ratio (the number of
 Dopamine makes you curious about ideas and fuels you to search more. Dopamine is also stimulated by unpredictability, this is used by many platforms to keep you engaged (you do not know when exactly or in which form tweet/email/... arrives so it will make you click again and again).
 
 ## People are social animals
+- social groups
+    - "strong tie" group (physical proximity and interaction). Max size limit ~150.
+    - "weak tie" group (do not rely on direct communication)
+- mimicking other people body language makes them like you more (we are doing it unconsciously)
+- many usability guidelines are actually guidelines that mimic person-to-person communication
+- laughter bonds people together (primary source are not jokes but normal interaction in conversations)
+
+## How people feel
+More cohesive your team is, the more you need to watch out for "group thinking". Encourage disagreement and debate. Let someone outside of the group review your group decision. 
+
+Information is processed more deeply and remembered longer if it is story form. Use anecdotes and stories in addition to data.
+
+People make first quick decision about what is trustworthy by design factors of website (color, layout, font, navigation ...). If website makes it through first rejection, then content and credibility is main facto for trust evaluation.
+
+## People make mistakes
+Think ahead what mistakes may people make and change your design so mistakes will not be made. There is no error proof system. So when error will occur make sure that error message
+- tells the person what he or she did
+- explain problem in plain language
+- instruct how to correct it
+- show example if appropriate
+
+Gather data in user testing where people make errors and categorize them. This may help you prevent future issues and redesigns.
+
 
 
 

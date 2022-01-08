@@ -72,7 +72,7 @@ Idea of having 3 brains.
 - mid (emotions)
 - old (Can I eat it? Can I have sex with it ? Will it kill me ?
 
-![You can not resist looking at food](./images/burger.jpg)
+![You can not resist looking at food](./images/burger.JPG)
 
 ## What motivates people
 Shorter the distance to the goal the more motivated people are to reach it. You can get illusion of progress to motivate people (loyalty coffee card example).
